@@ -1,6 +1,7 @@
-package Lesson2;
+package lesson2;
 
-public class Main {
+public class main {
+
 
     public static void main(String[] args) {
         invertArray();
